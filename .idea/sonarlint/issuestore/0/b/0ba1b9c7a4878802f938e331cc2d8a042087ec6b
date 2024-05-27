@@ -1,0 +1,9 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ñÍâ‹8¡å×Ğû1J$1a4c7074-b8e3-45e2-bf8b-5a0f7f863849
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8å×Ğû1J$30cf6777-902c-4a99-b808-533a21b50a63
+r	java:S106"+Replace this use of System.out by a logger.(¥¯µËşÿÿÿÿ8öğÙĞû1J$79c4aee2-6da1-406e-ad27-8cad78e9f489
+•
+java:S6204#"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8å×Ğû1J$e0d73a8e-91c1-4eed-b56c-28bf45ff0c66
+m	java:S106$"+Replace this use of System.out by a logger.(§õ†¸8·¥âĞû1J$27f32468-40fa-4b87-952a-f0ec5ae1c5ca
+m	java:S106("+Replace this use of System.out by a logger.(‚¨Ö§8¦ƒãĞû1J$0632c7ff-f309-4f4c-9d8b-3503caba9a5b
